@@ -1,0 +1,301 @@
+category,price,rating,stock,discount
+Beauty,477.01,1.2,In Stock,0
+Sports,172.07,2.1,Out of Stock,25
+Home & Kitchen,280.85,1.1,In Stock,10
+Sports,290.42,3.0,,15
+Sports,490.36,2.9,In Stock,0
+Clothing,46.92,4.3,In Stock,10
+Home & Kitchen,159.79,2.2,In Stock,10
+Home & Kitchen,103.55,4.3,In Stock,0
+Home & Kitchen,141.55,4.9,Out of Stock,20
+Sports,247.79,1.4,In Stock,10
+Beauty,192.62,4.2,In Stock,20
+Home & Kitchen,203.4,3.4,In Stock,0
+Sports,423.66,2.9,In Stock,20
+Clothing,465.71,2.7,Out of Stock,5
+Beauty,,,In Stock,15
+Clothing,112.37,3.6,In Stock,30
+Beauty,338.86,4.2,Out of Stock,10
+Sports,185.74,4.6,In Stock,25
+Electronics,134.54,3.5,In Stock,15
+Beauty,154.69,4.9,In Stock,30
+Clothing,168.05,3.4,In Stock,20
+Sports,425.85,,Out of Stock,10
+Beauty,76.94,3.2,In Stock,20
+Electronics,357.37,1.4,In Stock,5
+Electronics,280.88,3.9,In Stock,0
+Home & Kitchen,155.29,3.2,Out of Stock,10
+Home & Kitchen,215.69,2.8,In Stock,30
+Clothing,135.54,4.6,Out of Stock,30
+Beauty,309.64,2.2,In Stock,5
+Beauty,49.98,3.1,Out of Stock,5
+Home & Kitchen,12.54,3.8,Low Stock,10
+Beauty,317.67,4.2,Out of Stock,20
+Beauty,105.19,2.8,Out of Stock,25
+Electronics,44.76,4.4,In Stock,30
+Home & Kitchen,204.42,4.1,In Stock,30
+Sports,34.88,1.3,In Stock,
+Home & Kitchen,,1.2,In Stock,15
+Sports,23.53,3.5,In Stock,5
+Electronics,293.64,2.4,In Stock,25
+Clothing,224.85,1.8,In Stock,
+Beauty,339.29,3.3,In Stock,20
+Electronics,170.79,2.4,Out of Stock,15
+Beauty,85.97,3.1,In Stock,30
+Clothing,491.1,2.8,Out of Stock,5
+Clothing,421.08,3.3,Out of Stock,20
+Electronics,431.6,2.6,Low Stock,25
+Clothing,132.62,3.8,In Stock,10
+Sports,29.03,1.7,Out of Stock,0
+Clothing,158.6,3.8,Low Stock,0
+Beauty,273.17,2.6,Low Stock,0
+Beauty,170.06,4.5,In Stock,30
+Beauty,415.66,3.1,In Stock,5
+Beauty,143.06,4.9,In Stock,15
+Sports,482.97,3.4,In Stock,20
+Home & Kitchen,234.06,1.9,In Stock,10
+Electronics,422.59,4.3,Out of Stock,25
+Beauty,105.25,2.4,Out of Stock,10
+Clothing,211.56,2.4,In Stock,25
+Beauty,352.76,1.1,Out of Stock,30
+Clothing,77.79,3.2,In Stock,5
+Clothing,75.05,3.1,Out of Stock,0
+Beauty,485.07,,Low Stock,5
+Sports,360.15,4.6,In Stock,30
+Clothing,30.12,1.5,In Stock,15
+Clothing,205.42,2.3,Out of Stock,
+Beauty,222.43,2.3,In Stock,
+Clothing,374.58,1.4,In Stock,25
+Clothing,132.92,2.9,Out of Stock,20
+Beauty,,3.8,In Stock,20
+Beauty,49.63,3.0,Out of Stock,25
+Electronics,219.87,1.6,In Stock,15
+Sports,347.36,2.5,Out of Stock,15
+Sports,38.51,1.0,In Stock,15
+Clothing,458.45,4.5,,5
+Sports,226.75,1.3,Out of Stock,15
+Clothing,127.5,3.4,In Stock,10
+Electronics,56.0,4.9,In Stock,0
+Beauty,99.6,3.1,Low Stock,15
+Beauty,467.96,4.7,In Stock,25
+Beauty,322.75,1.9,In Stock,0
+Sports,263.18,4.0,,5
+Electronics,331.98,3.1,In Stock,25
+Sports,223.48,3.9,Out of Stock,0
+Sports,367.72,1.2,In Stock,25
+Electronics,33.38,1.6,In Stock,5
+Electronics,287.36,1.5,In Stock,10
+Electronics,87.74,3.7,In Stock,5
+Electronics,68.88,4.4,In Stock,5
+Beauty,177.52,4.0,In Stock,25
+Home & Kitchen,54.98,1.1,Low Stock,30
+Home & Kitchen,56.14,,In Stock,20
+Electronics,162.59,,In Stock,15
+Home & Kitchen,489.96,2.6,Out of Stock,15
+Home & Kitchen,95.91,1.4,In Stock,10
+Electronics,18.41,3.9,Out of Stock,10
+Home & Kitchen,384.05,1.7,In Stock,
+Sports,405.39,3.3,In Stock,20
+Clothing,179.69,4.4,In Stock,15
+Clothing,237.69,1.4,In Stock,30
+Electronics,328.39,3.1,Out of Stock,20
+Beauty,33.55,1.9,In Stock,10
+Electronics,475.08,2.4,In Stock,0
+Beauty,444.47,2.9,In Stock,25
+Clothing,137.84,2.4,In Stock,30
+Electronics,17.5,3.6,Out of Stock,30
+Sports,467.38,2.9,In Stock,10
+Home & Kitchen,255.51,3.3,In Stock,10
+Beauty,274.29,3.9,In Stock,5
+Home & Kitchen,345.14,3.2,In Stock,30
+Home & Kitchen,311.77,3.3,Out of Stock,5
+Electronics,,3.3,In Stock,5
+Home & Kitchen,472.68,2.5,Out of Stock,25
+Sports,434.93,2.3,In Stock,
+Home & Kitchen,321.84,4.6,In Stock,20
+Electronics,402.47,3.4,Low Stock,15
+Sports,341.81,2.0,In Stock,0
+Clothing,290.95,3.0,In Stock,10
+Home & Kitchen,72.97,2.3,Out of Stock,20
+Electronics,407.49,4.7,In Stock,0
+Clothing,412.11,1.0,Out of Stock,30
+Clothing,316.71,1.9,In Stock,30
+Beauty,412.01,2.5,Low Stock,30
+Sports,329.23,3.0,Out of Stock,20
+Home & Kitchen,111.28,4.4,In Stock,20
+Electronics,144.24,1.4,Low Stock,10
+Beauty,115.15,4.2,In Stock,15
+Sports,194.86,1.2,Low Stock,5
+Beauty,29.09,4.4,In Stock,30
+Sports,312.94,1.2,In Stock,25
+Sports,174.91,1.1,In Stock,15
+Home & Kitchen,331.3,3.8,In Stock,25
+Sports,198.84,5.0,In Stock,10
+Beauty,343.99,4.6,Out of Stock,10
+Sports,,3.3,Out of Stock,10
+Home & Kitchen,137.74,4.7,Low Stock,0
+Home & Kitchen,253.06,1.0,In Stock,25
+Beauty,349.52,4.9,In Stock,15
+Clothing,180.68,3.0,In Stock,15
+Clothing,468.96,3.9,In Stock,20
+Sports,29.2,4.3,In Stock,20
+Electronics,214.79,,In Stock,30
+Sports,484.11,3.1,Out of Stock,20
+Beauty,278.51,2.9,In Stock,10
+Beauty,217.5,4.4,In Stock,15
+Beauty,288.57,1.8,In Stock,25
+Beauty,292.2,4.9,In Stock,10
+Beauty,368.51,3.8,In Stock,0
+Home & Kitchen,72.57,1.8,Low Stock,20
+Clothing,132.51,3.9,In Stock,10
+Beauty,294.47,3.1,In Stock,10
+Electronics,434.89,3.8,In Stock,0
+Electronics,285.31,4.1,Out of Stock,5
+Electronics,126.91,1.3,Low Stock,15
+Electronics,343.12,3.0,Out of Stock,25
+Home & Kitchen,372.56,4.7,In Stock,30
+Electronics,126.74,2.3,,5
+Beauty,195.09,3.4,In Stock,20
+Sports,271.82,2.5,Low Stock,10
+Electronics,253.31,2.8,Out of Stock,0
+Home & Kitchen,200.91,3.2,In Stock,0
+Home & Kitchen,155.84,3.2,Out of Stock,15
+Electronics,58.99,1.8,Out of Stock,5
+Sports,36.21,3.7,In Stock,30
+Electronics,479.69,1.4,Low Stock,15
+Home & Kitchen,425.1,1.6,Low Stock,10
+Clothing,183.9,1.0,In Stock,15
+Beauty,478.83,1.5,In Stock,25
+Home & Kitchen,341.62,2.9,In Stock,0
+Electronics,246.44,3.4,In Stock,0
+Beauty,251.58,4.2,In Stock,
+Electronics,50.81,1.4,In Stock,20
+Electronics,54.94,4.4,Low Stock,
+Clothing,305.2,4.0,In Stock,10
+Beauty,281.31,2.6,In Stock,25
+Beauty,114.24,4.7,In Stock,5
+Clothing,473.64,5.0,In Stock,15
+Home & Kitchen,,1.8,Out of Stock,30
+Electronics,65.6,,In Stock,10
+Sports,466.16,,In Stock,20
+Electronics,487.38,3.9,In Stock,15
+Electronics,498.01,1.2,Out of Stock,20
+Home & Kitchen,37.38,4.1,Out of Stock,15
+Electronics,371.15,4.3,In Stock,5
+Clothing,277.5,,In Stock,
+Clothing,355.86,4.2,In Stock,15
+Beauty,484.64,4.3,In Stock,25
+Sports,347.13,1.7,In Stock,30
+Electronics,420.11,1.9,In Stock,0
+Electronics,434.77,3.5,In Stock,25
+Home & Kitchen,420.86,4.6,In Stock,25
+Clothing,218.78,2.3,Out of Stock,30
+Sports,119.06,3.4,In Stock,0
+Beauty,204.36,3.7,In Stock,25
+Clothing,447.03,2.8,In Stock,15
+Beauty,81.84,3.9,In Stock,15
+Home & Kitchen,261.53,4.6,Out of Stock,15
+Home & Kitchen,124.28,3.5,In Stock,0
+Electronics,294.84,3.2,In Stock,25
+Sports,432.94,2.8,Out of Stock,0
+Beauty,441.38,3.3,In Stock,15
+Clothing,125.98,2.4,In Stock,30
+Home & Kitchen,454.77,2.6,Out of Stock,25
+Electronics,300.03,3.1,In Stock,25
+Electronics,181.61,1.3,In Stock,20
+Beauty,357.01,,Low Stock,20
+Home & Kitchen,246.02,3.2,In Stock,5
+Sports,195.21,2.7,In Stock,10
+Home & Kitchen,355.49,2.3,In Stock,20
+Beauty,131.87,3.9,Low Stock,0
+Beauty,171.82,3.8,In Stock,20
+Home & Kitchen,222.88,1.7,In Stock,5
+Beauty,134.3,4.5,In Stock,25
+Home & Kitchen,208.55,3.0,In Stock,5
+Clothing,290.02,4.0,In Stock,25
+Home & Kitchen,373.08,3.3,In Stock,30
+Home & Kitchen,385.93,5.0,In Stock,30
+Beauty,413.17,4.0,In Stock,25
+Beauty,374.66,3.8,In Stock,10
+Electronics,343.71,4.1,In Stock,20
+Electronics,126.38,1.6,In Stock,
+Clothing,206.11,,In Stock,0
+Electronics,244.08,3.9,Out of Stock,15
+Home & Kitchen,50.62,3.0,In Stock,25
+Beauty,268.9,4.0,In Stock,0
+Electronics,223.8,1.4,In Stock,10
+Electronics,403.03,3.1,Out of Stock,25
+Clothing,489.17,2.5,Out of Stock,10
+Clothing,282.44,2.8,In Stock,0
+Home & Kitchen,168.12,3.4,In Stock,0
+Beauty,31.27,3.0,Low Stock,15
+Clothing,463.08,3.2,In Stock,0
+Electronics,460.37,2.9,In Stock,25
+Beauty,133.97,,In Stock,30
+Beauty,350.75,4.1,In Stock,25
+Electronics,,1.0,Low Stock,25
+Clothing,91.45,3.4,Out of Stock,15
+Electronics,116.24,3.3,In Stock,15
+Beauty,154.3,3.9,In Stock,0
+Sports,497.96,3.4,Low Stock,5
+Sports,351.49,4.3,Out of Stock,5
+Home & Kitchen,198.26,4.8,In Stock,15
+Electronics,371.18,2.4,Low Stock,0
+Electronics,458.47,1.9,Low Stock,5
+Home & Kitchen,479.76,2.7,Out of Stock,0
+Home & Kitchen,38.35,2.2,In Stock,0
+Home & Kitchen,203.32,3.5,In Stock,0
+Beauty,62.31,4.6,Out of Stock,20
+Electronics,174.47,1.6,In Stock,25
+Beauty,93.14,1.4,Out of Stock,0
+Home & Kitchen,326.96,2.0,In Stock,20
+Electronics,200.25,3.9,In Stock,15
+Beauty,122.4,3.4,In Stock,5
+Beauty,140.31,1.4,In Stock,25
+Home & Kitchen,186.57,4.7,Low Stock,30
+Electronics,137.38,4.2,,5
+Home & Kitchen,232.09,1.1,Out of Stock,25
+Electronics,25.83,3.6,In Stock,30
+Sports,147.08,4.1,In Stock,5
+Clothing,211.49,2.5,In Stock,25
+Clothing,305.36,1.3,In Stock,
+Clothing,142.77,1.3,In Stock,5
+Home & Kitchen,75.26,1.4,In Stock,30
+Sports,47.34,4.4,In Stock,5
+Electronics,470.86,4.6,In Stock,5
+Beauty,214.15,1.5,Low Stock,30
+Electronics,294.77,1.9,Out of Stock,
+Beauty,460.4,1.7,In Stock,0
+Electronics,50.55,1.7,In Stock,10
+Sports,439.56,4.3,Out of Stock,20
+Beauty,280.28,2.3,In Stock,10
+Home & Kitchen,90.77,2.2,Out of Stock,10
+Electronics,211.52,1.9,Out of Stock,25
+Electronics,391.03,3.4,In Stock,0
+Beauty,245.38,2.5,In Stock,25
+Home & Kitchen,,4.0,In Stock,0
+Home & Kitchen,194.6,1.8,In Stock,30
+Sports,377.29,4.2,,30
+Home & Kitchen,202.56,3.4,Out of Stock,0
+Home & Kitchen,416.29,1.5,In Stock,5
+Home & Kitchen,288.85,2.7,In Stock,15
+Clothing,41.12,4.5,Low Stock,5
+Sports,28.04,4.7,Out of Stock,15
+Electronics,75.59,2.9,In Stock,25
+Beauty,16.7,2.9,In Stock,15
+Electronics,46.93,4.7,In Stock,25
+Sports,348.94,3.3,In Stock,30
+Beauty,271.83,1.1,,10
+Sports,377.46,4.7,In Stock,30
+Home & Kitchen,457.45,,Low Stock,30
+Beauty,296.72,3.3,In Stock,10
+Home & Kitchen,365.8,1.7,Out of Stock,
+Electronics,380.97,1.1,Low Stock,15
+Electronics,195.15,2.2,In Stock,25
+Beauty,128.13,4.1,Out of Stock,5
+Beauty,110.47,2.1,In Stock,25
+Sports,133.21,1.9,Low Stock,5
+Sports,144.62,1.9,In Stock,
+Home & Kitchen,111.54,3.1,In Stock,10
+Beauty,440.33,4.9,In Stock,30
+Electronics,380.93,2.8,Out of Stock,0
